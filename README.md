@@ -8,8 +8,11 @@ About our files:
 Project Structure:-
 
 random_forest.py - supervised approach - RANDOMFOREST APPROACH.
+
 kmeans_approach.py - unsupervised approach - KMEANS APPROACH.
+
 data.csv - Dataset file.
+
 review_scraping.ipynb - used to extract reviews from E-commerce websites.
 
 
