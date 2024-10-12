@@ -39,5 +39,4 @@ The script prints the following information:
 - Key Improvements Suggested by Positive and Negative Reviews.
 
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
