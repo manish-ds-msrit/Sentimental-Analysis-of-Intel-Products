@@ -1,4 +1,4 @@
-# Sentimental-analysis-Intel-Products 2024
+# Sentimental analysis of Intel Products 2024
 A python tool to classify the reviews from E-commerce sites as POSITIVE, NEGATIVE & COMPARATIVE
 This project performs sentiment analysis on a dataset of textual reviews. The sentiment of each review is predicted using a Naive Bayes classifier trained on TF-IDF vectorized text data.
 
